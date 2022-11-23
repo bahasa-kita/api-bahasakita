@@ -1,5 +1,5 @@
-# Whisper API Example
-This repo is Whisper API.
+# BahasaKita API Example
+This repo is Bahasakita API.
 
 You need instal:
 1. pip install gradio

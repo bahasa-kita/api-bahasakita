@@ -16,7 +16,7 @@ data = {
 }
 
 
-lang = 'Indonesian' # Set Language for whisper
+lang = 'Indonesian' # Set Language
 diarization = True # Bool, if true, you activate diarization process
 
 # Request fot Post to API
